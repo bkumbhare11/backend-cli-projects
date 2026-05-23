@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Which module is used to create a server in Node.js?",
+    "options": ["fs", "http", "path", "os"],
+    "answer": 2
+  },
+  {
+    "question": "Which method is used to read a file synchronously?",
+    "options": [
+      "fs.readFile()",
+      "fs.writeFileSync()",
+      "fs.readFileSync()",
+      "fs.appendFile()"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which keyword is used to handle errors in async/await?",
+    "options": ["if-else", "switch", "try-catch", "for loop"],
+    "answer": 3
+  },
+  {
+    "question": "What does JSON.parse() do?",
+    "options": [
+      "Converts JS object to JSON",
+      "Reads a file",
+      "Converts JSON string to JS object",
+      "Deletes JSON data"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which function is used to convert JS object into JSON string?",
+    "options": [
+      "JSON.parse()",
+      "JSON.stringify()",
+      "JSON.convert()",
+      "JSON.object()"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which module is used to take user input from terminal?",
+    "options": ["http", "events", "readline", "stream"],
+    "answer": 3
+  },
+  {
+    "question": "Which method is used to remove an item from an array?",
+    "options": ["slice()", "splice()", "split()", "shiftItem()"],
+    "answer": 2
+  },
+  {
+    "question": "Which package is commonly used for API requests?",
+    "options": ["chalk", "axios", "nodemon", "path"],
+    "answer": 2
+  },
+  {
+    "question": "Which statement is correct about async functions?",
+    "options": [
+      "They always return a string",
+      "They return a Promise",
+      "They stop JavaScript execution",
+      "They only work in browsers"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which method is used to close readline interface?",
+    "options": ["rl.stop()", "rl.end()", "rl.close()", "rl.exit()"],
+    "answer": 3
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "name": "02-todo-app",
+  "version": "1.0.0",
+  "description": "TODO APP (CLI Project)",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "readline": "^1.3.0"
+  }
+}
